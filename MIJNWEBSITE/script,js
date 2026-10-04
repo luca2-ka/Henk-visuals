@@ -1,0 +1,3 @@
+function bericht() {
+    alert("Je hebt op de knop geklikt!");
+}
